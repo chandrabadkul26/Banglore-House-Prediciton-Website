@@ -1,0 +1,1 @@
+2024/04/06 18:33:14 [error] 20312#4568: *1 CreateFile() "C:\House_price_prediction_Model\nginx-1.25.4\nginx-1.25.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
